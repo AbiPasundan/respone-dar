@@ -2,5 +2,6 @@ hallo
 semangat belajarnya ya
 "sebaik-baik manusia adalaha yang berguna bagi manusia lainnya"
 jangan miskin tidak ada yang memberimu uang
-hanya ingin menambahkan
 jika ada waktu jangan bersedih tidak ada yang menginginkanmu
+hanya mengurangi satu baris
+uji coba menghapus 
